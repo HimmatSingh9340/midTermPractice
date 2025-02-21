@@ -18,6 +18,7 @@ public class Javapracticeweek1{
         Student[] studentlist2 = new Student[3];
 
         //yeyyyyyyyyy lets go!
+        //no yelling is needed okay?
     studentlist2[0] = new Student();
     studentlist2[0].setName("Harry");
 
