@@ -20,6 +20,7 @@ public class Javapracticeweek1{
         //yeyyyyyyyyy lets go!
         //no yelling is needed okay?
         //branch new created
+        //lets do pulling from this branch
     studentlist2[0] = new Student();
     studentlist2[0].setName("Harry");
 
