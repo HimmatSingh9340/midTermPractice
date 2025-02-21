@@ -25,6 +25,7 @@ public class Javapracticeweek1{
 
     for(Student s: studentlist2){
         System.out.println(s.getName());
+        //sorry buddy!
     }
     }
     
