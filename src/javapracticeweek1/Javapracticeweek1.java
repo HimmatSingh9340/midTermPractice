@@ -17,6 +17,7 @@ public class Javapracticeweek1{
         // TODO code application logic here
         Student[] studentlist2 = new Student[3];
 
+        //yeyyyyyyyyy lets go!
     studentlist2[0] = new Student();
     studentlist2[0].setName("Harry");
 
